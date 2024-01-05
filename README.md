@@ -1,5 +1,5 @@
 # CSTITCH
-
+ 
 # script goals:
 # 1 - download satellite data
 # 2 - merge and clean data
